@@ -1,0 +1,6 @@
+
+API_KEY = 'AIzaSyCc95cK_d1snVWcqnXXqNbhPYVLjqKImKk'
+BACKOFF_TIME = 30
+RETURN_FULL_RESULTS = False
+
+ADDRESS_COLUMN = 'bairro'
